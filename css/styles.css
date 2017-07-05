@@ -3,3 +3,24 @@
  {
   display: none;
 }
+h1 {
+  border: solid;
+  padding: 50px;
+  margin: 50px;
+  text-align: center;
+}
+
+button {
+  border: solid;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+body {
+  background-color: #E8CFCA;
+  text-align: center;
+}
+h3 {
+  font-size: 20px;
+}
