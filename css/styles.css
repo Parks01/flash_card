@@ -1,0 +1,5 @@
+.javascript-hidden, .operator-hidden ,.naming-hidden, .function-hidden,
+.methods-hidden, .arguments-hidden, .parameters-hidden, .variable-hidden
+ {
+  display: none;
+}
